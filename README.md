@@ -29,7 +29,7 @@ This project demonstrates a complete video annotation workflow covering:
 ## Video Annotation Workflow
 
 ![Video Annotation Overview](docs/assets/video-tracking-hero.png)
-
+*Annotation and tracking visualization generated for this project. Source footage by [George Morina on Pexels](https://www.pexels.com/video/people-walking-and-moving-cars-on-the-road-5222540/).*
 The workflow demonstrates four complementary views of the same video sequence:
 
 **Object Detection** — identifies relevant objects within individual video frames.
@@ -206,3 +206,15 @@ Quality-Control Review
     │
     ▼
 Dataset / Annotation Export
+
+## Video Source & Attribution
+
+The source video used for the annotation examples in this project is:
+
+**People Walking and Moving Cars on the Road**  
+Video by **George Morina** on **Pexels**
+
+- Source: [View original video on Pexels](https://www.pexels.com/video/people-walking-and-moving-cars-on-the-road-5222540/)
+- License: [Pexels License](https://www.pexels.com/license/)
+
+The original footage was used as source material for this computer vision and video annotation demonstration. Generated bounding boxes, tracking IDs, trajectories, segmentation masks, annotation metadata, and QA visualizations are project outputs and are not part of the original Pexels video.
