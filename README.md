@@ -1,4 +1,4 @@
-# Video Annotation
+# Image / Video Annotation
 
 A practical video annotation project demonstrating frame-level object labeling, bounding boxes, persistent track IDs, track continuity, occlusion review, annotation metadata, and quality control for computer vision datasets.
 
